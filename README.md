@@ -1,16 +1,26 @@
-### Hi there 👋
+## 👋 Hello World! I'm Tim Heinemann
 
-<!--
-**t1mdotcom/t1mdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🚀 Software Engineer, DevOps Engineer and IT-Admin
+- 💻 Specializing in Angular, Java, also doing some Stuff with Python and Shell Scripting
+- 🏎️ Simracing Enthusiast and Mechanical Keyboard Aficionado
 
-Here are some ideas to get you started:
+### 💼 Professional Journey
+- 🔧 Crafting robust software solutions
+- 🛠️ Bridging the gap between development and operations
+- 🖥️ Managing IT infrastructure with precision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+- 📧 [Email](mailto:tim@heinemann.foo)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tim-heinemann-524764190/)
+
+### 🌟 Hobbies
+- 🏎️ Simracing: Chasing virtual checkered flags
+- ⌨️ Mechanical Keyboards: Typing in style
+
+### 🛠️ Tech Stack
+- **Languages:** Angular, Java, Python, Shell
+- **Tools:** Docker, Kubernetes, Jetbrains IDEs
+- **Platforms:** Linux, Windows
+
+### 🚀 Always Learning, Always Coding!
